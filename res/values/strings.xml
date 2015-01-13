@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AirCatch</string>
+    <string name="hello_world">Find the 5 hidden points!</string>
+    <string name="action_settings">Settings</string>
+    <string name="count">0 / 5</string>
+    <color name="blue">#33B5E5</color>
+
+</resources>
